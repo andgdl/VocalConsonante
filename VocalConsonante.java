@@ -5,6 +5,6 @@ public class VocalConsonante {
         if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' )
             System.out.println(ch + " es una vocal.");
         else 
-            System.out.println(ch + " es una consonante.");
+            System.out.println(ch + " es una consonante."); //hola
     }
 }
