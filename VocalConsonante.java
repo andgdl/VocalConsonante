@@ -4,7 +4,7 @@ public class VocalConsonante {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Introduce una letra");
-        
+        char ch = scanner.next().charAt(0);
         
     } scanner.close();
 }
